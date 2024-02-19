@@ -1,0 +1,11 @@
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\bin\Debug\MMAPTest.exe.config
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\bin\Debug\MMAPTest.exe
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\bin\Debug\MMAPTest.pdb
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.csproj.AssemblyReference.cache
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.csproj.SuggestedBindingRedirects.cache
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.Form1.resources
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.Properties.Resources.resources
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.csproj.GenerateResource.cache
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.csproj.CoreCompileInputs.cache
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.exe
+D:\AAA2024_SmartFan\PCC#\MMAPTest\MMAPTest\obj\Debug\MMAPTest.pdb

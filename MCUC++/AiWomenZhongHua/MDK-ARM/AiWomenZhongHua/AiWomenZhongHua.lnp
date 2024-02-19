@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"aiwomenzhonghua\startup_stm32f103xe.o"
+"aiwomenzhonghua\main.o"
+"aiwomenzhonghua\gpio.o"
+"aiwomenzhonghua\tim.o"
+"aiwomenzhonghua\usart.o"
+"aiwomenzhonghua\stm32f1xx_it.o"
+"aiwomenzhonghua\stm32f1xx_hal_msp.o"
+"aiwomenzhonghua\stm32f1xx_hal_gpio_ex.o"
+"aiwomenzhonghua\stm32f1xx_hal_tim.o"
+"aiwomenzhonghua\stm32f1xx_hal_tim_ex.o"
+"aiwomenzhonghua\stm32f1xx_hal.o"
+"aiwomenzhonghua\stm32f1xx_hal_rcc.o"
+"aiwomenzhonghua\stm32f1xx_hal_rcc_ex.o"
+"aiwomenzhonghua\stm32f1xx_hal_gpio.o"
+"aiwomenzhonghua\stm32f1xx_hal_dma.o"
+"aiwomenzhonghua\stm32f1xx_hal_cortex.o"
+"aiwomenzhonghua\stm32f1xx_hal_pwr.o"
+"aiwomenzhonghua\stm32f1xx_hal_flash.o"
+"aiwomenzhonghua\stm32f1xx_hal_flash_ex.o"
+"aiwomenzhonghua\stm32f1xx_hal_exti.o"
+"aiwomenzhonghua\stm32f1xx_hal_uart.o"
+"aiwomenzhonghua\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "AiWomenZhongHua\AiWomenZhongHua.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "AiWomenZhongHua.map" -o AiWomenZhongHua\AiWomenZhongHua.axf

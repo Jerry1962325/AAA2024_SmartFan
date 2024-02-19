@@ -1,0 +1,12 @@
+本项目是我根据CVZONE网站的一个教程做下来的，上传百度云是因为很多小伙伴说打不开原网站或下载不下来。
+原教程及代码的网址：https://www.computervision.zone/courses/advance-computer-vision-with-python/
+
+常见报错：
+1-mediapipe、autopy等库在pycharm内部直接下载，提示找不到对应的包。可选择到终端python环境，通过pip进行下载
+例如： pip install mediapipe
+
+2-本项目代码调用的是笔记本自带摄像头，编号为0，cap = cv2.VideoCapture(0)，若使用外接摄像头 则更改为1或其他编号
+
+
+-------------------------------------------------B站：Tiger山-------------------------------------------------------------
+你都看到这里了  B站应该点关注了吧啊喂

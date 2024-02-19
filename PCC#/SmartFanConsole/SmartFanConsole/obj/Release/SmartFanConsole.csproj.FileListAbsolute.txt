@@ -1,0 +1,11 @@
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\bin\Release\SmartFanConsole.exe.config
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\bin\Release\SmartFanConsole.exe
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\bin\Release\SmartFanConsole.pdb
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.csproj.AssemblyReference.cache
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.csproj.SuggestedBindingRedirects.cache
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.Form1.resources
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.Properties.Resources.resources
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.csproj.GenerateResource.cache
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.csproj.CoreCompileInputs.cache
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.exe
+D:\AAA2024_SmartFan\PCC#\SmartFanConsole\SmartFanConsole\obj\Release\SmartFanConsole.pdb

@@ -1,0 +1,15 @@
+D:\Projects\TCPTest\TCPTest\bin\Debug\net6.0\TCPTest.exe
+D:\Projects\TCPTest\TCPTest\bin\Debug\net6.0\TCPTest.deps.json
+D:\Projects\TCPTest\TCPTest\bin\Debug\net6.0\TCPTest.runtimeconfig.json
+D:\Projects\TCPTest\TCPTest\bin\Debug\net6.0\TCPTest.dll
+D:\Projects\TCPTest\TCPTest\bin\Debug\net6.0\TCPTest.pdb
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.csproj.AssemblyReference.cache
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.AssemblyInfoInputs.cache
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.AssemblyInfo.cs
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.csproj.CoreCompileInputs.cache
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.dll
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\refint\TCPTest.dll
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.pdb
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\TCPTest.genruntimeconfig.cache
+D:\Projects\TCPTest\TCPTest\obj\Debug\net6.0\ref\TCPTest.dll

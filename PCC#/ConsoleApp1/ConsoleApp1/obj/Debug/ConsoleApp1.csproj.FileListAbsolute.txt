@@ -1,0 +1,11 @@
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\bin\Debug\Python.Runtime.dll
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\bin\Debug\Python.Runtime.xml
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\AAA2024_SmartFan\PCC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
